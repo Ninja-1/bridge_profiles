@@ -85,3 +85,4 @@ Type=Application
 Categories=
 NoDisplay=true
 OnlyShowIn=GNOME;
+X-XFCE-Autostart-Override=true
