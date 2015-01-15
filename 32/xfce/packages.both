@@ -127,6 +127,7 @@ sudo
 ntfs-3g
 ntfsprogs
 polkit
+polkit-gnome
 dosfstools
 fontconfig
 freetype2
