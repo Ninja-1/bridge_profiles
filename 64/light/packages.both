@@ -58,7 +58,7 @@ xorg-xkill
 alsa-firmware
 alsa-utils
 alsa-oss
-volumeicon-xfce
+volumeicon
 
 openbox
 obkey-git
