@@ -16,7 +16,7 @@ terminator
 kdebase-kwrite
 kdebase-plasma
 kdebase-workspace
-kdegraphics-gwenview
+gwenview
 kdegraphics-kgamma
 kdegraphics-ksnapshot
 kdegraphics-okular
@@ -111,7 +111,6 @@ alsa-firmware
 alsa-utils
 alsa-oss
 
-oxygenrefit2-icon-theme
 qtcurve-gtk2
 qtcurve-kde4
 
@@ -119,15 +118,7 @@ amarok
 transmission-qt
 gimp
 chromium
-libreoffice-en-US
-libreoffice-base
-libreoffice-calc
-libreoffice-common
-libreoffice-draw
-libreoffice-kde4
-libreoffice-impress
-libreoffice-math
-libreoffice-writer
+libreoffice-fresh
 
 networkmanager
 
