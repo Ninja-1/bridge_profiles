@@ -116,7 +116,6 @@ dnsutils
 rsync
 dosfstools
 
-gnome-carbonate-icon-theme
 gnome-icon-theme
 hicolor-icon-theme
 gtk-engine-murrine
