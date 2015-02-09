@@ -118,15 +118,7 @@ amarok
 transmission-qt
 gimp
 chromium
-libreoffice-en-US
-libreoffice-base
-libreoffice-calc
-libreoffice-common
-libreoffice-draw
-libreoffice-kde4
-libreoffice-impress
-libreoffice-math
-libreoffice-writer
+libreoffice-fresh
 
 networkmanager
 
