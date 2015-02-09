@@ -58,7 +58,7 @@ xorg-xkill
 alsa-firmware
 alsa-utils
 alsa-oss
-volumeicon-xfce
+volumeicon
 
 openbox
 obkey-git
@@ -116,7 +116,6 @@ dnsutils
 rsync
 dosfstools
 
-gnome-carbonate-icon-theme
 gnome-icon-theme
 hicolor-icon-theme
 gtk-engine-murrine
