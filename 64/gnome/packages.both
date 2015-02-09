@@ -103,15 +103,7 @@ alsa-utils
 alsa-oss
 
 gimp
-libreoffice-gnome
-libreoffice-en-US
-libreoffice-base
-libreoffice-calc
-libreoffice-common
-libreoffice-draw
-libreoffice-impress
-libreoffice-math
-libreoffice-writer
+libreoffice-fresh
 
 networkmanager
 network-manager-applet
