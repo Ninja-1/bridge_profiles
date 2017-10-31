@@ -5,4 +5,5 @@ jobs:
       - image: base/archlinux
     steps:
       - checkout
-      - run: echo "hello world"
+      - run: pacman -Syu --noconfirm
+      - run: pacman -S --noconfirm archiso
