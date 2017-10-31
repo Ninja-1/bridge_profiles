@@ -7,3 +7,6 @@ jobs:
       - checkout
       - run: pacman -Syu --noconfirm
       - run: pacman -S --noconfirm archiso
+      - run:
+        command: ./build.sh
+        working_directory: $CIRCLE_WORKING_DIRECTORY/64/xfce
